@@ -5,12 +5,12 @@ const Home = () => {
  
     //increase counter
     const increase = () => {
-      setCounter(count => count + 1);
+      setCounter(asd => asd + 1);
     };
    
     //decrease counter
     const decrease = () => {
-      setCounter(count => count - 1);
+      setCounter(asd => asd - 1);
     };
    
     //reset counter 
